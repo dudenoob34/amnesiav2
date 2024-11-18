@@ -10,7 +10,7 @@
 
 html {
   font-family: "Fredoka", "sans-serif";
-  *background-color: #1e88e5;*
+  background-color: rgb(20, 20, 20)
   color: white;
 }
 
@@ -121,9 +121,4 @@ iframe {
 
 .fade-in.active {
   opacity: 1;
-}
-
-body {
-  background: linear-gradient(to bottom, rgb(30, 136, 229), rgb(0, 0, 139));
-  background-attachment: fixed;
 }
